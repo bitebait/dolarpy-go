@@ -1,4 +1,4 @@
-# dolarpy-wrapper-java
+# dolarpy-go
 
 Package to easily consume the [Dolarpy API](https://dolar.melizeche.com) in golang.
 
