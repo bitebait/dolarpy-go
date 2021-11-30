@@ -2,7 +2,7 @@
 
 Package to easily consume the [Dolarpy API](https://dolar.melizeche.com) in golang.
 
-<https://github.com/melizeche/dolarPy> - bymelizeche
+<https://github.com/melizeche/dolarPy> - by [melizeche](https://github.com/melizeche/)
 
 ## Install
 
