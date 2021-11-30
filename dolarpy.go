@@ -1,4 +1,4 @@
-package main
+package dolarpy
 
 /*
 This is a Golang implementation of the
