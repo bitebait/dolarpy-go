@@ -1,6 +1,6 @@
 # dolarpy-go
 
-Package to easily consume the [Dolarpy API](https://dolar.melizeche.com) in golang.
+Go Package to easily consume the [Dolarpy API](https://dolar.melizeche.com).
 
 <https://github.com/melizeche/dolarPy> - by [melizeche](https://github.com/melizeche/)
 
