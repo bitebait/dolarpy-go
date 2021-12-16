@@ -7,7 +7,7 @@ Go Package to easily consume the [Dolarpy API](https://dolar.melizeche.com).
 ## Install
 
 ```go
-import "github.com/bitebait/dolarpy-go"
+go get github.com/bitebait/dolarpy-go
 ```
 
 ## Usage Example
