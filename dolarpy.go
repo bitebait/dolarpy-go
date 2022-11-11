@@ -7,7 +7,7 @@ Dolarpy API (https://github.com/melizeche/dolarPy -  melizeche )
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 )
@@ -30,7 +30,7 @@ func getAPIData() apiData {
 	}
 
 	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		log.Fatalln(err)
 	}
